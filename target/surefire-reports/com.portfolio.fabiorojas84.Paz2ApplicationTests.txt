@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
-Test set: com.portfolio.fabiorojas84.Paz2ApplicationTests
+Test set: com.portfolio.fabiorojas84ApplicationTests
 -------------------------------------------------------------------------------
 Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 13.898 s <<< FAILURE! - in com.portfolio.fabiorojas84.Paz2ApplicationTests
 contextLoads  Time elapsed: 0.01 s  <<< ERROR!
